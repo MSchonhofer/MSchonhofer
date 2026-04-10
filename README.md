@@ -8,7 +8,6 @@
 💻 Software Developer & QA Engineer  
 🏐 Competitive volleyball player  
 
----
 
 ## 🚀 About Me
 
@@ -17,7 +16,6 @@ I enjoy building real-world applications, improving software quality, and explor
 
 I’m constantly developing my skills through projects, work experience, and tech events.
 
----
 
 ## 🔧 What I Do
 
@@ -25,8 +23,7 @@ I’m constantly developing my skills through projects, work experience, and tec
 - Test and improve software quality  
 - Work on automation and API testing  
 - Explore machine learning and AI
-
----
+  
 
 ## 🛠 Tech Stack
 
@@ -34,6 +31,5 @@ I’m constantly developing my skills through projects, work experience, and tec
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,astro,docker,git,vercel,postgres,postman,figma&perline=8" />
 </p>
 
----
 
 ⭐ Always open to learning, collaboration and new opportunities
